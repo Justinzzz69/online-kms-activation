@@ -5,6 +5,13 @@
 2. Open fart.exe with admin rights.
 3. Windows will be activated for 180 days.
 
+## <span style="color:green">which Windows versions are supported?</span>
+- win 11
+- win 10
+- win 8.1
+- win 8
+- win 7
+  
 ## <span style="color:green">What to Do When My 180 Days Have Passed?</span>
 - Just activate it again!
 
